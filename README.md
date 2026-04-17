@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on innovations and designs related to my career path in Computer Systems and Engineering
 - 🌱 I’m currently learning hardware engineering with software integration, robotics, and AI engineering
 - 👯 I’m looking to collaborate on any development projects for startups and businesses, cybersecurity, hardware devices with software integration, and robotics
-- 🤔 I’m looking for help with learning new technological advancements
+- 🤝 I’m looking for help with learning new technological advancements
 - 💬 Ask me about anything related to Computer Systems and Engineering  and startup development
 
+### Communicate with Me via:
