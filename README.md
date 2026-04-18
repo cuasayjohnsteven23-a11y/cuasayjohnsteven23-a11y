@@ -8,4 +8,4 @@
 - 🤝 I’m looking for help with learning new technological advancements
 - 💬 Ask me about anything related to Computer Systems and Engineering  and startup development
 
-### Communicate with Me via:
+### Social Accounts:
