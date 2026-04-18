@@ -9,10 +9,12 @@
 - 💬 Ask me about anything related to Computer Systems and Engineering  and startup development
 
 ### Social Accounts:
+<div align="left">
 <a href="https://www.facebook.com/johnstevencuasay.09/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-<a href="https;/www.instagram.com/itzjohncouz/" target="_blank">
+<a href="https:/www.instagram.com/itzjohncouz/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+  </div>
 
