@@ -17,4 +17,10 @@
 <a href=https://www.linkedin.com/in/earl-john-steven-cuasay-63223220a/ target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
  </a>
+<a href="mailto:cuasayjohnsteven.23@gmail.com" target="_blank">
+  <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" height="30" width="40" />    
+</a> 
+<a href="https://discord.com/users/747296702469505044" target="_blank">
+  <img src="https://cdn.simpleicons.org/discord" alt="Discord" height="30" width="40" />
+</a>    
 </div>
