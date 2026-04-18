@@ -7,14 +7,15 @@
 - 👯 I’m looking to collaborate on any development projects for startups and businesses, cybersecurity, hardware devices with software integration, and robotics
 - 🤝 I’m looking for help with learning new technological advancements
 - 💬 Ask me about anything related to Computer Systems and Engineering  and startup development
-
-<h3> Social Accounts:</h3>
-<p align="left">
+### Social Accounts:
+<div align="left">
 <a href="https://www.facebook.com/johnstevencuasay.09/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 <a href="https://www.instagram.com/itzjohncouz/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+<a href=https://www.linkedin.com/in/earl-john-steven-cuasay-63223220a/ target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
  </a>
-  </p>
+</div>
 
