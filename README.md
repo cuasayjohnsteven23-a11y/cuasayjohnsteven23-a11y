@@ -8,7 +8,7 @@
 - 🤝 I’m looking for help with learning new technological advancements
 - 💬 Ask me about anything related to Computer Systems and Engineering  and startup development
 
-<h3> ### Social Accounts:</h3>
+<h3> Social Accounts:</h3>
 <p align="left">
 <a href="https://www.facebook.com/johnstevencuasay.09/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
