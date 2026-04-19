@@ -38,7 +38,7 @@
 <br>
 <img src="https://cdn.simpleicons.org/cisco" height="40" alt="Cisco" />
 <br>
-<img src="https://cdn.simpleicons.org/amazonaws" height="40" alt="AWS" />
+<img src="https://wikimedia.org" alt="IBM Logo" width="200"/>
 <br>
 <img src="https://cdn.simpleicons.org/github" height="40" alt="GitHub" />
 <br>
