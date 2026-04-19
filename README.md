@@ -24,3 +24,37 @@
   <img src="https://cdn.simpleicons.org/discord" alt="Discord" height="30" width="40" />
 </a>    
 </div>
+
+### Stack devices:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
+<img src="https://cdn.simpleicons.org/c" height="40" alt="C" />
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"  />
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
+<br>
+<img src="https://cdn.simpleicons.org/cisco" height="40" alt="Cisco" />
+<br>
+<img src="https://cdn.simpleicons.org/ibm" height="40" alt="IBM" />
+<br>
+<img src="https://cdn.simpleicons.org/microsoftazure" height="40" alt="Microsoft Azure" />
+<br>
+<img src="https://cdn.simpleicons.org/github" height="40" alt="GitHub" />
+<br>
+<img src="https://cdn.simpleicons.org/googlegemini" height="40" alt="Google Gemini" />
+<br>
+<img src="https://cdn.simpleicons.org/openai" height="40" alt="OpenAI" />
+<br>
+<img src="https://cdn.simpleicons.org/anthropic" height="40" alt="Claude (Anthropic)" />
+<br>
+<img src="https://cdn.simpleicons.org/perplexity" height="40" alt="Perplexity" />
+<br>
+<img src="https://cdn.simpleicons.org/githubcopilot" height="40" alt="GitHub Copilot" />
+<br>
+<img src="https://cdn.simpleicons.org/synthesia" height="40" alt="Synthesia" />
+<br>
+<img src="https://cdn.simpleicons.org/google" height="40" alt="NotebookLLM" />
+<br>
