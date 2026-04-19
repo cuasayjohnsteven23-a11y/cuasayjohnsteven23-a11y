@@ -38,8 +38,6 @@
 <br>
 <img src="https://cdn.simpleicons.org/cisco" height="40" alt="Cisco" />
 <br>
-<img src="https://jsdelivr.net" alt="AWS Logo" width="30" height="40" />
-<br>
 <img src="https://cdn.simpleicons.org/github" height="40" alt="GitHub" />
 <br>
 <img src="https://cdn.simpleicons.org/googlegemini" height="40" alt="Google Gemini" />
