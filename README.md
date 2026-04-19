@@ -38,7 +38,7 @@
 <br>
 <img src="https://cdn.simpleicons.org/cisco" height="40" alt="Cisco" />
 <br>
-<img src="https://cdn.simpleicons.org/ibm" height="40" alt="IBM" />
+<img src="https://cdn.simpleicons.org/amazonaws" height="40" alt="AWS" />
 <br>
 <img src="https://cdn.simpleicons.org/microsoftazure" height="40" alt="Microsoft Azure" />
 <br>
@@ -46,15 +46,11 @@
 <br>
 <img src="https://cdn.simpleicons.org/googlegemini" height="40" alt="Google Gemini" />
 <br>
-<img src="https://cdn.simpleicons.org/openai" height="40" alt="OpenAI" />
-<br>
 <img src="https://cdn.simpleicons.org/anthropic" height="40" alt="Claude (Anthropic)" />
 <br>
 <img src="https://cdn.simpleicons.org/perplexity" height="40" alt="Perplexity" />
 <br>
 <img src="https://cdn.simpleicons.org/githubcopilot" height="40" alt="GitHub Copilot" />
-<br>
-<img src="https://cdn.simpleicons.org/synthesia" height="40" alt="Synthesia" />
 <br>
 <img src="https://cdn.simpleicons.org/google" height="40" alt="NotebookLLM" />
 <br>
