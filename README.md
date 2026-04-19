@@ -40,8 +40,6 @@
 <br>
 <img src="https://cdn.simpleicons.org/amazonaws" height="40" alt="AWS" />
 <br>
-<img src="https://cdn.simpleicons.org/microsoftazure" height="40" alt="Microsoft Azure" />
-<br>
 <img src="https://cdn.simpleicons.org/github" height="40" alt="GitHub" />
 <br>
 <img src="https://cdn.simpleicons.org/googlegemini" height="40" alt="Google Gemini" />
