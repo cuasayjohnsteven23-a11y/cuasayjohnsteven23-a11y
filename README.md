@@ -38,7 +38,6 @@
 <br>
 <img src="https://cdn.simpleicons.org/cisco" height="40" alt="Cisco" />
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ibm/ibm-plain-wordmark.svg" height="40" alt="IBM" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" />
 <br>
 <img src="https://cdn.simpleicons.org/github" height="40" alt="GitHub" />
