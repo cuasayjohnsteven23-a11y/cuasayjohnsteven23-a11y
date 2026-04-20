@@ -38,6 +38,8 @@
 <br>
 <img src="https://cdn.simpleicons.org/cisco" height="40" alt="Cisco" />
 <br>
+<img src="https://www.vectorlogo.zone/logos/ibm/ibm-ar21.svg" height="40" alt="IBM" />
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" />
 <br>
 <img src="https://cdn.simpleicons.org/github" height="40" alt="GitHub" />
